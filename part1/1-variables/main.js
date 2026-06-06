@@ -3,36 +3,36 @@
 
 // var - function scope-Hoisting-redeclare-same name- if this define in global we have this in context or window object
 
-// 2015 not us var
+// 2015 not use var
 
 // es6 - const and  let 
 
-// const -block scope-hoisting(temperal dead zone)-not redeclare- not same name -case sensetive-if define it in global, we have it in lexical envoirment -blockscript
-// let block scope-hoisting(temperal zone dead)-reasign-not same name-case sensetive-if we define  it global, we have it in lexical envoirment-blockscript
+// const - block scope-hoisting(temperal dead zone)-not redeclare- not same name -case sensetive-if define it in global, we have it in lexical envoirment -blockscript
+// let block scope-hoisting(temperal dead zone)-reasign-not same name-case sensetive-if we define  it global, we have it in lexical envoirment-blockscript
 
 
 // we can not define variable with a number but we can define with _ and $
 
 // camelCase-pascalcase-snake_case
 
-// default is camelCase  for define class we use PascalCase
+// default is camelCase.  for define class we use PascalCase
 
 
-// data types in js -string-number-boolean-undefined-null-symbol-binint-object-array
+// data types in js -string-number-boolean-undefined-null-symbol-bigInt-object-array
 
 // type of string = string
 // type of number = number
-// tyoe of boolean = boolean
+// type of boolean = boolean
 // type of undefined = undefined
 // type of null = object 
 // type of symbol = symbol 
-// type of bigInt = big integer
+// type of bigInt = biginteger
 // type of array = object 
 // type of object = object 
 // type of function = function
 
 
-// primitive types = string-number-boolean-undefined-null-symbol-binInt
+// primitive types = string-number-boolean-undefined-null-symbol-bigInt
 // reference types - array - object - function
 
 // primitive types in  memory = stack memory
