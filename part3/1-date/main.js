@@ -27,7 +27,7 @@ console.log(milisecond);
 
 // index of month  and  day starts from zero 
 
-// sunday-monday-tuesday-wednesday-thursday-friday-sayurday
+// sunday-monday-tuesday-wednesday-thursday-friday-saturday
 // 0-1-2-3-4-5-6
 
 // january=0,
