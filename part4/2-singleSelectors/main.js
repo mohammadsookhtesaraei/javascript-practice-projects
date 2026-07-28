@@ -43,7 +43,7 @@ console.log(input);
 const btn=document.querySelector(".box Button");
 console.log(btn);
 
-// select child >
+// select child just return first element because single selector >
 
 const ptext=document.querySelector(".box1 > p");
 console.log(ptext);
